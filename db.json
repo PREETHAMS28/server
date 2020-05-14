@@ -1,8 +1,7 @@
-[
-  {
-    "asset_id": 1,
-    "category": "laptop",
-    "owner": "raju",
-    "emp_no":1
-  }
+{"asset_id": [
+ "id" : 1,
+"category": "laptop",
+"owner": "raju",
+"emp_no":1 
 ]
+}
