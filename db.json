@@ -1,5 +1,6 @@
 {
     "assets": [
+      { "id":1, "Asset_ID":"EG19202675", "Category":"Laptop", "Resource_Owner":"Preetham Shiva", "Emp_no":60150159},
       { "id":1, "Asset_ID":"EG19202675", "Category":"Laptop", "Resource_Owner":"Preetham Shiva", "Emp_no":60150159}
     ]
 }
