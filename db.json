@@ -1,7 +1,5 @@
 {
     "assets": [
-      { "id":1, "owner":"Raju", "title":"post1" },
-      { "id":2, "owner":"Preethu", "title":"post2" },
-      { "id":3, "owner":"Shiva", "title":"post3" }
+      { "id":1, "Asset_ID":"EG19202675", "Category":"Laptop", "Resource_Owner":"Preetham Shiva", "Emp_no":60150159}
     ]
 }
