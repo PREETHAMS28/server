@@ -1,7 +1,7 @@
 {
     "assets": [
       { "id":1, "Asset_ID":"EG19202675", "Category":"Laptop", "Resource_Owner":"Preetham Shiva", "Emp_no":60150159},
-      { "id":2, "Asset_ID":"EG19202675", "Category":"Laptop", "Resource_Owner":"Preetham Shiva", "Emp_no":60150159},
-      { "id":3, "Asset_ID":"EG19202675", "Category":"Laptop", "Resource_Owner":"Preetham Shiva", "Emp_no":60150159}
+      { "id":2, "Asset_ID":"ASDFG12", "Category":"Laptop", "Resource_Owner":"Shiva", "Emp_no":12345678},
+      { "id":3, "Asset_ID":"QWER45", "Category":"Laptop", "Resource_Owner":"razikha", "Emp_no":121212121}
     ]
 }
